@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hylianmike
-- 👀 I’m interested in making cool things
+- 👋 Hi, I’m Mike Rosanelli!
 - 🌱 I’m currently learning Java, JavaScript, C#, PHP, and many more languages!
-- 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me: Email -> michaelrosanelli105@gmail.com
+- Nintendo GameBoy Website Project -> <a href="https://github.com/hylianmike/Web-Authoring-Fundamentals-Final-Project">Here</a>
+- Pokemon in Java / JavaFX (In Development) -> <a href="https://github.com/hylianmike/PokemonJavaFX">Here</a>
 
 <!---
 hylianmike/hylianmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
